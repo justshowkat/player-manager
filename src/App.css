@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  /* align-items: center;
+  justify-content: center; */
+}
+
+.club-info{
+  width: 20%;
+  border-right: 1px solid lavender;
+  justify-content: space-around;
+  display: flex;
+}
+
+.players{
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}

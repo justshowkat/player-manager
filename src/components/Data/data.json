@@ -1,0 +1,170 @@
+[
+    {
+        "rank": "1",
+        "player": "Lionel Messi",
+        "img": "https://i.ibb.co/7znbw1T/1.png",
+        "salary": "70758000",
+        "position": "RW",
+        "age": "32"
+    },
+    {
+        "rank": "2",
+        "player": "Antoine Griezmann",
+        "img": "https://i.ibb.co/Krvgkrz/2.png",
+        "salary": "45834000",
+        "position": "CF",
+        "age": "28"
+    },
+    {
+        "rank": "3",
+        "player": "Miralem Pjanic",
+        "img": "https://i.ibb.co/d0f1TXR/3.png",
+        "salary": "8400000",
+        "position": "CM",
+        "age": "30"
+    },
+    {
+        "rank": "4",
+        "player": "Frenkie de Jong",
+        "img": "https://i.ibb.co/PwZqGQn/4.png",
+        "salary": "20834000",
+        "position": "CM",
+        "age": "22"
+    },
+    {
+        "rank": "5",
+        "player": "Sergio Busquets",
+        "img": "https://i.ibb.co/YjYN9xp/5.png",
+        "salary": "14949000",
+        "position": "DM",
+        "age": "31"
+    },
+    {
+        "rank": "6",
+        "player": "Sergino Dest",
+        "img": "https://i.ibb.co/GcBJqZ0/6.png",
+        "salary": "5354000",
+        "position": "RB",
+        "age": "19"
+    },
+    {
+        "rank": "7",
+        "player": "Gerard Piqué",
+        "img": "https://i.ibb.co/rfLhV8Q/7.png",
+        "salary": "12740000",
+        "position": "CB",
+        "age": "32"
+    },
+    {
+        "rank": "8",
+        "player": "Ousmane Dembélé",
+        "img": "https://i.ibb.co/LYFtstM/8.png",
+        "salary": "12000000",
+        "position": "LW",
+        "age": "22"
+    },
+    {
+        "rank": "9",
+        "player": "Samuel Umtiti",
+        "img": "https://i.ibb.co/gPB7WQ1/9.png",
+        "salary": "12000000",
+        "position": "CB",
+        "age": "25"
+    },
+    {
+        "rank": "10",
+        "player": "Sergi Roberto",
+        "img": "https://i.ibb.co/WKCjxVJ/10.png",
+        "salary": "9966000",
+        "position": "CM",
+        "age": "27"
+    },
+    {
+        "rank": "11",
+        "player": "Trincao",
+        "img": "https://i.ibb.co/z4CV1gj/11.png",
+        "salary": "4000000",
+        "position": "RM",
+        "age": "19"
+    },
+    {
+        "rank": "12",
+        "player": "Jordi Alba",
+        "img": "https://i.ibb.co/SycmVxr/12.png",
+        "salary": "8580000",
+        "position": "LB",
+        "age": "30"
+    },
+    {
+        "rank": "13",
+        "player": "Marc-André ter Stegen",
+        "img": "https://i.ibb.co/HxqD8Mp/13.png",
+        "salary": "8580000",
+        "position": "GK",
+        "age": "27"
+    },
+    {
+        "rank": "14",
+        "player": "Philippe Coutinho",
+        "img": "https://i.ibb.co/VYg6JJP/14.png",
+        "salary": "8580000",
+        "position": "CAM",
+        "age": "28"
+    },
+    {
+        "rank": "15",
+        "player": "Arthur",
+        "img": "https://i.ibb.co/3kj1z5V/15.png",
+        "salary": "4883000",
+        "position": "CM",
+        "age": "23"
+    },
+    {
+        "rank": "16",
+        "player": "Neto",
+        "img": "https://i.ibb.co/7VLTKz3/16.png",
+        "salary": "3704000",
+        "position": "GK",
+        "age": "30"
+    },
+    {
+        "rank": "17",
+        "player": "Nélson Semedo",
+        "img": "https://i.ibb.co/NjsT5dH/17.png",
+        "salary": " 3429000",
+        "position": "RB",
+        "age": "25"
+    },
+    {
+        "rank": "18",
+        "player": "Clément Lenglet",
+        "img": "https://i.ibb.co/Cn4rhwp/18.png",
+        "salary": " 2699000",
+        "position": "CB",
+        "age": "24"
+    },
+    {
+        "rank": "19",
+        "player": "Carles Aleñà",
+        "img": "https://i.ibb.co/SN8Vxbq/19.png",
+        "salary": "869000",
+        "position": "CM",
+        "age": "21"
+    },
+    {
+        "rank": "20",
+        "player": "Júnior Firpo",
+        "img": "https://i.ibb.co/pjZfwcd/20.png",
+        "salary": "716000",
+        "position": "LB",
+        "age": "23"
+    },
+    {
+        "rank": "21",
+        "player": "Jean-Clair Todibo",
+        "img": "https://i.ibb.co/NSCf5tM/21.png",
+        "salary": "597,000",
+        "position": "CB",
+        "age": "19"
+    }
+]
